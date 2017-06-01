@@ -1,5 +1,5 @@
 {
-  "name": "BowerTest",
+  "name": "bowerTest",
   "description": "",
   "main": "app.js",
   "license": "MIT",
@@ -11,5 +11,9 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "ember": "^2.13.3"
+  }
 }
